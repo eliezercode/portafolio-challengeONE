@@ -73,6 +73,10 @@ header h3, ul, li {
     }
 }
 
+.nav-list a {
+    text-decoration: none;
+}
+
 #container {
     display: flex;
     flex-flow: column wrap;
